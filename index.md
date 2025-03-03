@@ -5,3 +5,11 @@ add headers
 
 # add image
 ![image flower](https://lizgard.com.ua/assets/galleries/9964/fajly.jpg)
+
+# add code
+``` javascript
+let a = 15;
+let b = 20;
+let c = a + b;
+console.log(c);
+```
