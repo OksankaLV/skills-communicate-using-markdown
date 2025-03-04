@@ -13,3 +13,7 @@ let b = 20;
 let c = a + b;
 console.log(c);
 ```
+# Make a task list
+- [X] Turn to GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce muself to the world
